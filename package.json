@@ -1,12 +1,13 @@
 {
-  "devDependencies": {
-    "@vuepress/bundler-vite": "^2.0.0-rc.14",
-    "@vuepress/plugin-search": "^2.0.0-rc.40",
-    "@vuepress/theme-default": "^2.0.0-rc.40",
-    "vuepress": "^2.0.0-rc.14"
-  },
+  "name": "Luamega-carbon-template",
+  "version": "0.0.1",
+  "description": "VitePress Carbon Template For Luamega",
   "scripts": {
-    "docs:dev": "vuepress dev ./",
-    "docs:build": "vuepress build ./"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress-carbon": "^0.0.14"
   }
 }
