@@ -111,15 +111,22 @@ export default defineConfigWithTheme<ThemeConfig>({
     logo: {
       src: '/lumega.ico'
     },
-
-
+    docFooter: {
+      prev: "上一页",
+      next: "下一页",
+    },
+    outlineTitle: "目录",
     editLink: {
       pattern: 'https://github.com/rnhws/neomega-doc/edit/neo/src/:path',
       text: '编辑此页面'
     },
-
+    sidebarMenuLabel: "菜单",
+    returnToTopLabel: "返回顶部",
+    externalLinkIcon: true,
+    darkModeSwitchLabel: "切换深色模式",
     lastUpdated: {
-      formatOptions: { dateStyle: 'short', timeStyle: 'short' }
+      formatOptions: { dateStyle: 'short', timeStyle: 'short' },
+      text: "最后更新",
     },
 
     //socialLinks: [

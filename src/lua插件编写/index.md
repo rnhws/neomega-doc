@@ -5,6 +5,7 @@ prev:
 next:
   text: '读取配置'
   link: '/lua插件编写/配置读取和升级相关API/配置读取和升级'
+contributors: [CMA2401PT, Liliya233, awaqwqa, kukinghan]
 ---
 # coromega
 ::: tip coromega
