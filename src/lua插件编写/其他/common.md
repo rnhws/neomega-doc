@@ -2,6 +2,9 @@
 lang: zh-CN
 title: 其他
 description: 其他
+next: 
+  text: ' '
+  link: '#'
 ---
 
 # 其他

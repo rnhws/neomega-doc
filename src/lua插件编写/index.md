@@ -1,3 +1,11 @@
+---
+prev:
+  text: '编写Lua插件:调试代码'
+  link: '/lua插件编写/调试lua代码/调试代码'
+next:
+  text: '读取配置'
+  link: '/lua插件编写/配置读取和升级相关API/配置读取和升级'
+---
 # coromega
 ::: tip coromega
 coromega  是从 omega 的扩展接口，封装了大量的异步操作.
@@ -8,7 +16,6 @@ coromega  是从 omega 的扩展接口，封装了大量的异步操作.
 #### [调试lua代码](./调试lua代码/调试代码.md)
  
 ### 接口列表
-#### [调试lua代码](./调试lua代码/调试代码.md) 
 #### [读取配置](./配置读取和升级相关API/配置读取和升级.md)
 #### [菜单](./菜单相关API/菜单相关API.md)
 #### [命令收发](./命令收发api/coromega_cmd.md)
